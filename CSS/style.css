@@ -1,0 +1,46 @@
+ /* div selector{
+    background-color: blue;
+} */
+
+/* CLASS SELECTOR */
+
+.first{
+ background-color: blue;
+
+} 
+.second{
+    background-color: brown;
+
+}
+
+/* id selector */
+ 
+/* #container{
+    background-color: green;
+}  */
+
+/* CHILD SELECTOR */
+    .first h1{
+        color: yellow;
+    }
+    .first p{
+        color: white;
+    }
+    /* UNIVERSAL SELECTOR */
+
+ /* *{
+    background-color: green;
+ } */
+
+
+/* COLORS SELECTOR */
+
+/* RGB */
+/* RGBA */
+/* HEX */
+
+.color{
+background-color: rgb( green blue / alpha);
+background-color: rgba(red, green, blue, alpha);
+background-color: #034303;
+}

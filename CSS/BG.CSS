@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.bg{
+background-image: url(../img/IMG_3469.JPG);
+height: 70vh;
+background-repeat: no-repeat;
+background-size: cover;
+/* background-position: center;
+background-position: top;
+background-position: bottom; */
+}

@@ -1,0 +1,28 @@
+button:hover {
+    background-color: blue;
+    color: yellow;
+    padding: 10px 10px;
+}
+button{
+    background-color: green;
+    color: aqua;
+    padding: 10px 10px;
+}
+.container p:nth-child(1){
+    background-color: blue;
+    color: pink;
+}
+.container p:last-child{
+    background-color: aqua;
+    color: green;
+    font-size:small;
+    font-style: oblique;
+}
+.container p:nth-child(2){
+    background-color: red;
+    color: white;
+
+}
+.box h1 ::first-line{
+    text-decoration: underline;
+}
